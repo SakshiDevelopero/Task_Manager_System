@@ -57,13 +57,17 @@ Styled using Tailwind CSS for a clean, responsive, and modern user experience, t
 ##  📸 Screenshots 
 
 🖥️ Admin Dashboard View and Login Sign-in Page
+
 ![Login , Admin-Dashboard](https://github.com/user-attachments/assets/8b007250-ac30-47ba-adc7-0e512080af51)
 
 ✅ Task List and User Dashboard Upload Task 
+
 ![User-Dashboard , Upload-Task](https://github.com/user-attachments/assets/422e8913-3174-4ccb-90b0-3e1a454ea672)
 
 📂 Category-wise Task Board
+
 ![Task-Preview](https://github.com/user-attachments/assets/7d2fb056-7071-4787-afb0-bff6605795da)
 
 🗃️ Database Structure  
+
 ![Database-(User, Task)](https://github.com/user-attachments/assets/89424ec8-d698-4a2c-8960-ebe779d421b5)
